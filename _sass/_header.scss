@@ -52,4 +52,11 @@
             font-size: 1em;
         }
     }
+
+    img {
+        width: 100%;
+        @media screen and (max-width: $mobile-width) {
+            width: 80%;
+        }
+    }
 }
