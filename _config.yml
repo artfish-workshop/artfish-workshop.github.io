@@ -18,7 +18,7 @@ language: ja
 # Icons
 #
 icons:
-  rss:
+  rss: true
   email:
   github:
   bitbucket:
